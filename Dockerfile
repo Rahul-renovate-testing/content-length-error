@@ -1,3 +1,3 @@
-FROM traefik:v3.5.1
+FROM traefik:v3.4.4
 
 FROM node:20.15-buster
